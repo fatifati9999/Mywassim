@@ -1,0 +1,9 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore SQLite database
+*.db
+
+# Ignore SVG files in templates/static/token
+templates/static/token/*.svg
